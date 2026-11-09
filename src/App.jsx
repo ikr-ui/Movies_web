@@ -103,7 +103,7 @@ function App() {
               {
                 title: "Guardians of the Galaxy",
                 year: "2023",
-                image: "https://preview.redd.it/iconic-action-movie-posters-v0-rf19xt02oo7h1.jpeg?auto=webp&s=5c100428acdf44de78c12540d8653a4daaf4d845.jpeg"
+                image: "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
               },
               {
                 title: "Shazam! Fury of the Gods",
