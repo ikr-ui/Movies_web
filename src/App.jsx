@@ -60,7 +60,7 @@ function App() {
           <div className="relative flex justify-center items-center h-[350px]">
 
             <img
-              src="https://lh3.googleusercontent.com/gg/AJWXcNc2Vkdib0z8obFCkt8gS3R6tWW1dAScL6aogfePLbWIghgCbtQ7hHXGG4EauMnIP-jQW1sKhUf-8JIrwHj2ynuB7BvZ2_Tzq5At91gFQ5wtNZoOoEer3XmzxTyZfIXjPP0x_vuIORcCCQVXhrMcMerAUllTJe_rNETWTdM74paipnhbWI3kA6lr2D7CJm7ZRczMeSVSfxN3yZMq9P621NYiWHKhmq3ezoJZcfO-ycvJcRqFBAayuXGU3NvUsdoPNZ0BQ2ctKXJ04hRp7gqEIHrgOgyxaRR3L8LD9cPvl-LyIyss8nMhzJPkiQwZTQs_roai3k5WaASlx8rIR3_mREbX=w264-h264-c-rj-v1.jpeg"
+              src="https://i.pinimg.com/736x/9d/fc/1c/9dfc1cd609a41b68fcc1f24a748239ec.jpg"
               alt="Guardians of the Galaxy"
               className="absolute right-0 top-0 w-36 md:w-48 h-64 object-cover"
             />
